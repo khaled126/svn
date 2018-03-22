@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "761912907550",
+    "firebase_url": "https://acrostoneshopping.firebaseio.com",
+    "project_id": "acrostoneshopping",
+    "storage_bucket": "acrostoneshopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761912907550:android:fac9a56f7481db83",
+        "android_client_info": {
+          "package_name": "com.example.mohsher.acrostoneshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761912907550-lt37to98021godbc96fj4re8mgm2uma4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQeyKCHToSrHd26rJcHNz42zo9vwOOb4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
